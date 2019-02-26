@@ -8,3 +8,6 @@ Then my group member, Nathan, wrote this paragraph in the story. It was kind
 strange, because he was writing it from my perspective rather than his.
 Nathan wrote sentence after sentence after sentence, like two, before
 finishing. He then ended his section, added, committed, and pushed.
+
+Then my favorite group member Declan crashed into this story. I don't know what
+else to write on this one. So this is my awesome paragraph.
